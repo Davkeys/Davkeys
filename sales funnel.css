@@ -204,11 +204,10 @@
     }
 
     @media only screen and (min-width:600px){
-    body{
-        width: 100%;
+
     }
          .head{
-             min-height:54vh;
+             min-height:24vh;
              width:130%;
              background-color:#000080;
              background-position:center;
@@ -219,7 +218,7 @@
          
          .header h1{
              text-align:center;
-             font:10pt arial, sans seriff;
+             font:18pt arial, sans seriff;
              font-weight:bold;
              color:white;
              background-color: red;
